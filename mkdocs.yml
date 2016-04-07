@@ -1,0 +1,11 @@
+site_name: teams
+site_description: API for Professional DOTA2 Teams
+repo_url: https://github.com/patpatpatpatpat/doto-teams
+site_dir: site
+copyright: Copyright &copy; 2015, <a href="https://github.com/patpatpatpatpat">patpatpatpatpat</a>.
+
+pages:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
